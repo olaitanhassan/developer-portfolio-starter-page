@@ -1,0 +1,157 @@
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding: 30px 200px;
+}
+
+.nav1{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+button{
+    width: 90px;
+    height: 30px;
+    border: none;
+    background-color: rgba(255,255, 0, 0.8);
+    text-align: center;
+    font-size: 12px;
+    font-family: serif;
+}
+
+h3{
+    font-size: 15px;
+}
+
+h2{
+    margin: 0px;
+    font-size: 25px;
+    padding-top: 8px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+
+/* 
+____________________________________________________________________________________________________
+_______________________________________________________________________________________________________________ */
+
+
+#first{
+    padding: 0px 200px;
+}
+
+
+.first{
+    width: 500px;
+    height: 150px;
+}
+
+h1{
+    font-size: 35px;
+    color: rgba(255, 255, 255, 0.9);
+    font-family: Georgia;
+    padding-bottom: 0px;
+    margin: 0px ;
+}
+
+.second{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 35px;
+}
+
+#img-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 200px;
+}
+
+.slide{
+    width: 400px;
+    height: 300px;
+}
+
+.logo{
+    align-items: center;
+    width: 400;
+    
+}
+
+#content1{
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 0px 200px;
+}
+
+.third{
+    width: 350px;
+    height: 150px;
+}
+
+.fourth{
+    width: 400px;
+    height: 150px;
+}
+
+
+#content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 200px;
+    background-color: rgb(48, 47, 47);
+}
+
+.fifth{
+    width: 350px;
+    height: 200px;
+    padding-top: 20px;
+}
+
+.sixth{
+    width: 400px;
+    height: 200px;
+    padding-top: 20px;
+}
+
+.about{
+    width: 350px;
+    height: 150px;
+    padding: 20px 0px;
+}
+
+#about{
+    padding: 0px 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    background-color: rgb(76, 72, 72);
+    align-items: center;
+    padding: 0px 200px;
+}
+
+.icon{
+    padding: 0px 10px;
+}
